@@ -1,0 +1,11 @@
+.title {
+font-weight: bolder;
+color: brown;
+font-size: 60px;
+text-align: center;
+}
+
+.lasagna, .maggie, .egg {
+    color: rgb(255, 119, 0);
+    font-size: 22px;
+}
